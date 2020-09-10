@@ -1,4 +1,5 @@
-# Mod Listing Script by wrdg (for use in Development)
+# Mod Listing Script by wrdg
+# run $ ./list-mods.ps1 via CLI to List the mods
 
 Clear-Content .\mods.txt -ErrorAction SilentlyContinue
 Get-Content -Path "./config.json" | ConvertFrom-Json |`

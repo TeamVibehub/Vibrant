@@ -1,4 +1,5 @@
-# Mod Fetching Script by wrdg (for use in Development)
+# Mod Fetching Script by wrdg
+# run $ ./get-mods.ps1 via CLI to download the mods
 
 $maxConcurrentJobs = 20
 $Runspace = [RunspaceFactory]::CreateRunspacePool(1, $maxConcurrentJobs)
