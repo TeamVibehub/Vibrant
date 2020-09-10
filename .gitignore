@@ -1,0 +1,30 @@
+# ingore everything
+*
+
+# allow directories
+!*/
+
+# allow configuration files
+!*.json
+!*.html
+!*.ps1
+
+# allow configuration directories recursively
+!/local/**
+!/resources/**
+!/config/**
+!/natives/**
+!/customnpcs/**
+
+# handle overide mods
+!/overrides/mods/*.jar
+/overrides/mods/memory_repo/**
+
+# re-ignore
+/saves/**
+patchouli_data.json
+usercache.json
+usernamecache.json
+
+# allow gitignore
+!.gitignore
