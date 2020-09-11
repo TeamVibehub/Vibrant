@@ -1,5 +1,5 @@
-# *Redesigning the Scene of 1.16 with Vibrant*
-[![](http://cf.way2muchnoise.eu/full_405749_Downloads(19d1a6).svg "Vibrant Downloads")](https://www.curseforge.com/minecraft/modpacks/vibrant)
+# <p style='color:#19d1a6'>*Redesigning the Scene of 1.16 with Vibrant*</p>
+
 
 ### What is Fabric?
 
@@ -12,6 +12,8 @@ Please run the Shell script get-mods.ps1
 <details>
   <summary>Click to Reveal Mods List</summary>
 
-> * Mods to be Listed Here...
+> Mods to be Listed Here...
 
 </details>
+
+[![](http://cf.way2muchnoise.eu/full_405749_Downloads(19d1a6).svg "Vibrant Downloads")](https://www.curseforge.com/minecraft/modpacks/vibrant)
