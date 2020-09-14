@@ -1,5 +1,4 @@
-# <p style='color:#19d1a6'>*Redesigning the Scene of 1.16 with Vibrant*</p>
-
+# *Redesigning the Scene of 1.16 with Vibrant*
 
 ### What is Fabric?
 
