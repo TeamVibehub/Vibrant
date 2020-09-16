@@ -18,6 +18,6 @@ Get-Content -Path "./config.json" | ConvertFrom-Json |`
     Select-Object -ExpandProperty projectID -ErrorAction SilentlyContinue |`
     ForEach-Object {
         $request = Invoke-RestMethod -Uri "https://curse.nikky.moe/api/addon/$_"
-        $message = '<li style="text-align: left;"><span style="font-size: 16px;"><a href="' + "$($request.websiteUrl)" + '">' + "$($request.name)" + '</a></span></li>'
+        $message = '<li><a href="' + "$($request.websiteUrl)" + '" rel="nofollow">' + "$($request.name)" + '</a></li>'
         Add-Content -Path .\mods-curse-format.txt -Value "$message"
     }
