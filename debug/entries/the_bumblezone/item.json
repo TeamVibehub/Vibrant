@@ -1,0 +1,20 @@
+{
+  "count": 15,
+  "values": [
+    "the_bumblezone:porous_honeycomb_block",
+    "the_bumblezone:filled_porous_honeycomb_block",
+    "the_bumblezone:dead_honeycomb_larva_block",
+    "the_bumblezone:honeycomb_larva_block",
+    "the_bumblezone:sugar_infused_stone",
+    "the_bumblezone:sugar_infused_cobblestone",
+    "the_bumblezone:honey_crystal",
+    "the_bumblezone:sticky_honey_residue",
+    "the_bumblezone:sticky_honey_redstone",
+    "the_bumblezone:beeswax_planks",
+    "the_bumblezone:honey_crystal_shards",
+    "the_bumblezone:honey_crystal_shield",
+    "the_bumblezone:sugar_water_bucket",
+    "the_bumblezone:sugar_water_bottle",
+    "the_bumblezone:honey_slime_spawn_egg"
+  ]
+}

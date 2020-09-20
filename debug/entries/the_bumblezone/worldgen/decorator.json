@@ -1,0 +1,8 @@
+{
+  "count": 3,
+  "values": [
+    "the_bumblezone:honeycomb_hole_placer",
+    "the_bumblezone:bee_dungeon_placer",
+    "the_bumblezone:random_3d_underground_chunk_placement"
+  ]
+}
