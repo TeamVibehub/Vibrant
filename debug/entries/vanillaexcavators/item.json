@@ -1,0 +1,19 @@
+{
+  "count": 14,
+  "values": [
+    "vanillaexcavators:wooden_excavator",
+    "vanillaexcavators:stone_excavator",
+    "vanillaexcavators:iron_excavator",
+    "vanillaexcavators:golden_excavator",
+    "vanillaexcavators:diamond_excavator",
+    "vanillaexcavators:netherite_excavator",
+    "vanillaexcavators:emerald_excavator",
+    "vanillaexcavators:obsidian_excavator",
+    "vanillaexcavators:lapis_excavator",
+    "vanillaexcavators:quartz_excavator",
+    "vanillaexcavators:fiery_excavator",
+    "vanillaexcavators:prismarine_excavator",
+    "vanillaexcavators:ender_excavator",
+    "vanillaexcavators:slime_excavator"
+  ]
+}

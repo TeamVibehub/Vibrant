@@ -1,0 +1,26 @@
+{
+  "count": 21,
+  "values": [
+    "techreborn:alloy_smelter",
+    "techreborn:assembling_machine",
+    "techreborn:blast_furnace",
+    "techreborn:centrifuge",
+    "techreborn:chemical_reactor",
+    "techreborn:compressor",
+    "techreborn:distillation_tower",
+    "techreborn:extractor",
+    "techreborn:grinder",
+    "techreborn:implosion_compressor",
+    "techreborn:industrial_electrolyzer",
+    "techreborn:industrial_grinder",
+    "techreborn:industrial_sawmill",
+    "techreborn:recycler",
+    "techreborn:scrapbox",
+    "techreborn:vacuum_freezer",
+    "techreborn:fluid_replicator",
+    "techreborn:fusion_reactor",
+    "techreborn:rolling_machine",
+    "techreborn:solid_canning_machine",
+    "techreborn:wire_mill"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "count": 28,
+  "values": [
+    "byg:boreal",
+    "byg:coniferous",
+    "byg:shattered_glacier",
+    "byg:marshland",
+    "byg:great_lakes",
+    "byg:great_lakes_isles",
+    "byg:eroded_sierra",
+    "byg:sierra_valley",
+    "byg:glowshroom_bayou",
+    "byg:crag_gardens",
+    "byg:red_rock",
+    "byg:red_rock_lowlands",
+    "byg:red_dunes",
+    "byg:dunes",
+    "byg:dover_mountains",
+    "byg:quagmire",
+    "byg:canyons",
+    "byg:mojave",
+    "byg:lush_tundra",
+    "byg:fungal_rainforest",
+    "byg:ebony_woods",
+    "byg:glowing_ancient_forest",
+    "byg:embur_bog",
+    "byg:rocky_black_beach",
+    "byg:rainbow_beach",
+    "byg:rocky_beach",
+    "byg:warped_desert",
+    "byg:ivis_fields"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "count": 7,
+  "values": [
+    "astromine:altar",
+    "astromine:triturating",
+    "astromine:pressing",
+    "astromine:liquid_generating",
+    "astromine:electrolyzing",
+    "astromine:fluid_mixing",
+    "astromine:alloy_smelting"
+  ]
+}

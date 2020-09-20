@@ -1,0 +1,9 @@
+{
+  "count": 4,
+  "values": [
+    "astromine:asteroid_ores",
+    "astromine:moon_crater",
+    "astromine:moon_lake",
+    "astromine:moon_ore"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "count": 13,
+  "values": [
+    "indrev:pulverize",
+    "indrev:compress",
+    "indrev:infuse",
+    "indrev:fluid_infuse",
+    "indrev:recycle",
+    "indrev:patchouli_recipe",
+    "indrev:crafting_shaped",
+    "indrev:smelting",
+    "indrev:blasting",
+    "indrev:crafting_shapeless",
+    "indrev:selfremainder",
+    "indrev:smelter",
+    "indrev:condenser"
+  ]
+}

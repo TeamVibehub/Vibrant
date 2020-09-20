@@ -1,0 +1,14 @@
+{
+  "count": 9,
+  "values": [
+    "techreborn:alarm",
+    "techreborn:alarm_2",
+    "techreborn:alarm_3",
+    "techreborn:auto_crafting",
+    "techreborn:block_dismantle",
+    "techreborn:cable_shock",
+    "techreborn:machine_run",
+    "techreborn:machine_start",
+    "techreborn:sap_extract"
+  ]
+}

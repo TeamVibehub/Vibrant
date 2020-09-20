@@ -1,0 +1,25 @@
+{
+  "count": 20,
+  "values": [
+    "indrev:coal_generator_screen",
+    "indrev:solar_generator",
+    "indrev:biomass_generator",
+    "indrev:heat_generator_screen",
+    "indrev:battery_screen",
+    "indrev:electric_furnace_screen",
+    "indrev:pulverizer_screen",
+    "indrev:compressor_screen",
+    "indrev:infuser",
+    "indrev:recycler",
+    "indrev:chopper_controller",
+    "indrev:rancher_screen",
+    "indrev:miner",
+    "indrev:fishing_farm_screen",
+    "indrev:modular_workbench_screen",
+    "indrev:smelter",
+    "indrev:condenser",
+    "indrev:fluid_infuser",
+    "indrev:farmer_screen",
+    "indrev:wrench_item_io_screen"
+  ]
+}

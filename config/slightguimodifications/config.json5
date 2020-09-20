@@ -1,8 +1,8 @@
 { 
-	"fluidAdvancements": true,
-	"fluidStatusEffects": true,
+	"fluidAdvancements": false,
+	"fluidStatusEffects": false,
 	// Whether we should unlimit the hard 60 fps limit placed on the title screen.
-	"unlimitTitleScreenFps": true,
+	"unlimitTitleScreenFps": false,
 	"openingAnimation": { 
 		"fluidChatOpening": true,
 		"fluidOpenSlideFromBottom": true,
@@ -15,16 +15,16 @@
 	},
 	"textFieldModifications": { 
 		// Whether this module is enabled.
-		"enabled": true,
+		"enabled": false,
 		/* Set to Color to use the Border and Background Color.
 		   Set to Texture to use resource pack:
 		   /assets/minecraft/textures/gui/text_field.png
 		   
 		   More documentations on website.
 		*/
-		"backgroundMode": "TEXTURE",
-		"borderColor": 10526880,
-		"backgroundColor": 0,
+		"backgroundMode": "COLOR",
+		"borderColor": 1692070,
+		"backgroundColor": 1578801,
 		"selectionMode": "INVERT",
 		// Whether Text Fields should allow right click actions.
 		"rightClickActions": false
@@ -38,10 +38,10 @@
 		   or
 		   /config/slightguimodifications/slider(_hovered).png
 		*/
-		"customBackgroundTexture": true
+		"customBackgroundTexture": false
 	},
 	"debugInformation": { 
-		"showFps": true
+		"showFps": false
 	},
 	"customScaling": { 
 		"scale": 1.0

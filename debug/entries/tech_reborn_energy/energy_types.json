@@ -1,0 +1,12 @@
+{
+  "count": 7,
+  "values": [
+    "tech_reborn_energy:micro_tier",
+    "tech_reborn_energy:low_tier",
+    "tech_reborn_energy:medium_tier",
+    "tech_reborn_energy:high_tier",
+    "tech_reborn_energy:extreme_tier",
+    "tech_reborn_energy:insane_tier",
+    "tech_reborn_energy:infinite_tier"
+  ]
+}

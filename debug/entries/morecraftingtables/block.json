@@ -1,0 +1,12 @@
+{
+  "count": 7,
+  "values": [
+    "morecraftingtables:spruce_crafting_table",
+    "morecraftingtables:birch_crafting_table",
+    "morecraftingtables:jungle_crafting_table",
+    "morecraftingtables:acacia_crafting_table",
+    "morecraftingtables:dark_oak_crafting_table",
+    "morecraftingtables:crimson_crafting_table",
+    "morecraftingtables:warped_crafting_table"
+  ]
+}

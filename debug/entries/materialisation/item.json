@@ -1,0 +1,30 @@
+{
+  "count": 25,
+  "values": [
+    "materialisation:reinforcer",
+    "materialisation:gold_infused_cream",
+    "materialisation:materialising_table",
+    "materialisation:material_preparer",
+    "materialisation:materialised_pickaxe",
+    "materialisation:materialised_axe",
+    "materialisation:materialised_shovel",
+    "materialisation:materialised_sword",
+    "materialisation:materialised_hammer",
+    "materialisation:materialised_megaaxe",
+    "materialisation:handle",
+    "materialisation:axe_head",
+    "materialisation:pickaxe_head",
+    "materialisation:shovel_head",
+    "materialisation:sword_blade",
+    "materialisation:hammer_head",
+    "materialisation:megaaxe_head",
+    "materialisation:blank_pattern",
+    "materialisation:handle_pattern",
+    "materialisation:pickaxe_head_pattern",
+    "materialisation:axe_head_pattern",
+    "materialisation:shovel_head_pattern",
+    "materialisation:sword_blade_pattern",
+    "materialisation:hammer_head_pattern",
+    "materialisation:megaaxe_head_pattern"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "count": 7,
+  "values": [
+    "computercraft:computer",
+    "computercraft:pocket_computer",
+    "computercraft:turtle",
+    "computercraft:disk_drive",
+    "computercraft:printer",
+    "computercraft:printout",
+    "computercraft:view_computer"
+  ]
+}

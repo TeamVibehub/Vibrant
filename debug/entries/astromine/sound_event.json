@@ -1,0 +1,26 @@
+{
+  "count": 21,
+  "values": [
+    "astromine:item.armor.equip_space_suit",
+    "astromine:block.altar.start",
+    "astromine:block.altar.finish",
+    "astromine:fire_extinguisher_open",
+    "astromine:item.armor.equip_copper",
+    "astromine:item.armor.equip_tin",
+    "astromine:item.armor.equip_silver",
+    "astromine:item.armor.equip_lead",
+    "astromine:item.armor.equip_bronze",
+    "astromine:item.armor.equip_steel",
+    "astromine:item.armor.equip_electrum",
+    "astromine:item.armor.equip_rose_gold",
+    "astromine:item.armor.equip_sterling_silver",
+    "astromine:item.armor.equip_fools_gold",
+    "astromine:item.armor.equip_metite",
+    "astromine:item.armor.equip_asterite",
+    "astromine:item.armor.equip_stellum",
+    "astromine:item.armor.equip_galaxium",
+    "astromine:item.armor.equip_univite",
+    "astromine:item.armor.equip_lunum",
+    "astromine:item.armor.equip_meteoric_steel"
+  ]
+}

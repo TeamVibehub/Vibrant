@@ -1,0 +1,10 @@
+{
+  "count": 5,
+  "values": [
+    "minecraft:cave",
+    "minecraft:nether_cave",
+    "minecraft:canyon",
+    "minecraft:underwater_canyon",
+    "minecraft:underwater_cave"
+  ]
+}

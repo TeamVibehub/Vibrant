@@ -1,0 +1,10 @@
+{
+  "count": 5,
+  "values": [
+    "universalcomponents:ultra_low_voltage",
+    "universalcomponents:low_voltage",
+    "universalcomponents:medium_voltage",
+    "universalcomponents:high_voltage",
+    "universalcomponents:ultra_high_voltage"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "count": 3,
+  "values": [
+    "computercraft:block_named",
+    "computercraft:player_creative",
+    "computercraft:has_id"
+  ]
+}

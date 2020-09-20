@@ -1,0 +1,20 @@
+{
+  "count": 15,
+  "values": [
+    "hardcorequesting:item_barrel",
+    "hardcorequesting:quest_tracker",
+    "hardcorequesting:quest_book",
+    "hardcorequesting:enabled_quest_book",
+    "hardcorequesting:basic_bag",
+    "hardcorequesting:good_bag",
+    "hardcorequesting:greater_bag",
+    "hardcorequesting:epic_bag",
+    "hardcorequesting:legendary_bag",
+    "hardcorequesting:hqm_invalid_item",
+    "hardcorequesting:quarterheart",
+    "hardcorequesting:halfheart",
+    "hardcorequesting:threequartsheart",
+    "hardcorequesting:heart",
+    "hardcorequesting:rottenheart"
+  ]
+}

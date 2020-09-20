@@ -1,0 +1,20 @@
+{
+  "count": 15,
+  "values": [
+    "ce_foodstuffs:cheese",
+    "ce_foodstuffs:lettuce",
+    "ce_foodstuffs:lettuce_seeds",
+    "ce_foodstuffs:tomato",
+    "ce_foodstuffs:chocolate",
+    "ce_foodstuffs:marshmallow",
+    "ce_foodstuffs:apple_pie",
+    "ce_foodstuffs:sweet_berry_pie",
+    "ce_foodstuffs:salad",
+    "ce_foodstuffs:mashed_potatoes",
+    "ce_foodstuffs:sandwich",
+    "ce_foodstuffs:uncooked_marshmallow_on_a_stick",
+    "ce_foodstuffs:toasty_marshmallow_on_a_stick",
+    "ce_foodstuffs:golden_marshmallow_on_a_stick",
+    "ce_foodstuffs:burnt_marshmallow_on_a_stick"
+  ]
+}

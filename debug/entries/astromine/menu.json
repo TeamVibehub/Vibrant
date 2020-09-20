@@ -1,0 +1,26 @@
+{
+  "count": 21,
+  "values": [
+    "astromine:rocket",
+    "astromine:fluid_extractor",
+    "astromine:fluid_inserter",
+    "astromine:block_breaker",
+    "astromine:block_placer",
+    "astromine:liquid_generator",
+    "astromine:solid_generator",
+    "astromine:vent",
+    "astromine:tank",
+    "astromine:nuclear_warhead",
+    "astromine:capacitor",
+    "astromine:creative_capacitor",
+    "astromine:creative_tank",
+    "astromine:creative_buffer",
+    "astromine:buffer",
+    "astromine:triturator",
+    "astromine:presser",
+    "astromine:electric_smelter",
+    "astromine:electrolyzer",
+    "astromine:fluid_mixer",
+    "astromine:alloy_smelter"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "count": 6,
+  "values": [
+    "astromine:oxygen_flowing",
+    "astromine:oxygen",
+    "astromine:hydrogen_flowing",
+    "astromine:hydrogen",
+    "astromine:rocket_fuel_flowing",
+    "astromine:rocket_fuel"
+  ]
+}

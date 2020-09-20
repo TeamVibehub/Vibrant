@@ -1,0 +1,9 @@
+{
+  "count": 4,
+  "values": [
+    "byg:underground_count_extra_decorator",
+    "byg:any_water_or_solid_surface_decorator",
+    "byg:obsidian_spike_placer",
+    "byg:ocean_floor_count_extra"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "count": 22,
+  "values": [
+    "computercraft:computer_normal",
+    "computercraft:computer_advanced",
+    "computercraft:computer_command",
+    "computercraft:pocket_computer_normal",
+    "computercraft:pocket_computer_advanced",
+    "computercraft:turtle_normal",
+    "computercraft:turtle_advanced",
+    "computercraft:disk",
+    "computercraft:treasure_disk",
+    "computercraft:printed_page",
+    "computercraft:printed_pages",
+    "computercraft:printed_book",
+    "computercraft:speaker",
+    "computercraft:disk_drive",
+    "computercraft:printer",
+    "computercraft:monitor_normal",
+    "computercraft:monitor_advanced",
+    "computercraft:wireless_modem_normal",
+    "computercraft:wireless_modem_advanced",
+    "computercraft:wired_modem_full",
+    "computercraft:cable",
+    "computercraft:wired_modem"
+  ]
+}
