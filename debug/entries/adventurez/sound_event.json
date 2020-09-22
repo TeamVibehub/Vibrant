@@ -1,0 +1,31 @@
+{
+  "count": 26,
+  "values": [
+    "adventurez:golem_idle",
+    "adventurez:golem_walk",
+    "adventurez:golem_hit",
+    "adventurez:golem_roar",
+    "adventurez:golem_death",
+    "adventurez:golem_spawn",
+    "adventurez:rock_impact",
+    "adventurez:rock_throw",
+    "adventurez:small_golem_idle",
+    "adventurez:small_golem_walk",
+    "adventurez:small_golem_hit",
+    "adventurez:small_golem_death",
+    "adventurez:heart_beat",
+    "adventurez:piglinbeast_idle",
+    "adventurez:piglinbeast_death",
+    "adventurez:piglinbeast_hurt",
+    "adventurez:piglinbeast_walk",
+    "adventurez:piglinbeast_shout",
+    "adventurez:piglinbeast_clubswing",
+    "adventurez:nightmare_idle",
+    "adventurez:nightmare_death",
+    "adventurez:nightmare_hurt",
+    "adventurez:nightmare_angry",
+    "adventurez:soulreaper_idle",
+    "adventurez:soulreaper_hurt",
+    "adventurez:soulreaper_death"
+  ]
+}

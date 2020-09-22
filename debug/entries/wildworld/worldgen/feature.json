@@ -1,0 +1,14 @@
+{
+  "count": 9,
+  "values": [
+    "wildworld:marker_noop",
+    "wildworld:large_lake",
+    "wildworld:speleothem",
+    "wildworld:replacement",
+    "wildworld:underground_vines",
+    "wildworld:place_next_to",
+    "wildworld:spider_den",
+    "wildworld:leaf_pile",
+    "wildworld:wild_plant"
+  ]
+}

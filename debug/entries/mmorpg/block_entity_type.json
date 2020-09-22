@@ -1,0 +1,9 @@
+{
+  "count": 4,
+  "values": [
+    "mmorpg:modify_station",
+    "mmorpg:socket_station",
+    "mmorpg:repair_station",
+    "mmorpg:salvage_station"
+  ]
+}

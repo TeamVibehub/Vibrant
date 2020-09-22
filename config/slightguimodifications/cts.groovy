@@ -24,7 +24,7 @@ mainMenu {
         color = 0x201f3d
         hoveredColor = 0x19d1a6
         shadow = true
-        text = literal("Vibrant - Build 0.1.0 (Beta)")
+        text = literal("Vibrant - Build 0.2.1 (Beta)")
     }
 
     label {
@@ -66,6 +66,7 @@ mainMenu {
         height = 80
         align = "center"
         texture = file("config/slightguimodifications/logo.png")
+        hoveredTexture = file("config/slightguimodifications/logo-hover.png")
         onClicked = nothing()
     }
 

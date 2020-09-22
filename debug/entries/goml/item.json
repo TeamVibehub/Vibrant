@@ -1,0 +1,17 @@
+{
+  "count": 12,
+  "values": [
+    "goml:makeshift_claim_anchor",
+    "goml:reinforced_claim_anchor",
+    "goml:glistening_claim_anchor",
+    "goml:crystal_claim_anchor",
+    "goml:emeradic_claim_anchor",
+    "goml:withered_claim_anchor",
+    "goml:reinforced_upgrade_kit",
+    "goml:glistening_upgrade_kit",
+    "goml:crystal_upgrade_kit",
+    "goml:emeradic_upgrade_kit",
+    "goml:withered_upgrade_kit",
+    "goml:goggles"
+  ]
+}

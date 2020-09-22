@@ -1,0 +1,18 @@
+{
+  "count": 13,
+  "values": [
+    "wildworld:green_glowshroom",
+    "wildworld:blue_glowshroom",
+    "wildworld:stone_speleothem",
+    "wildworld:sandstone_speleothem",
+    "wildworld:icicle",
+    "wildworld:oak_leaf_pile",
+    "wildworld:spruce_leaf_pile",
+    "wildworld:birch_leaf_pile",
+    "wildworld:jungle_leaf_pile",
+    "wildworld:acacia_leaf_pile",
+    "wildworld:dark_oak_leaf_pile",
+    "wildworld:nether_thorns",
+    "wildworld:end_thorns"
+  ]
+}

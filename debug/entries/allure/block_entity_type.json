@@ -1,0 +1,11 @@
+{
+  "count": 6,
+  "values": [
+    "allure:crate",
+    "allure:gravestone",
+    "allure:chute",
+    "allure:feeding_trough",
+    "allure:ender_watcher",
+    "allure:weather_detector"
+  ]
+}

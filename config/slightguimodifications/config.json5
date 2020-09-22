@@ -7,7 +7,7 @@
 		"fluidChatOpening": true,
 		"fluidOpenSlideFromBottom": true,
 		"fluidOpenFade": true,
-		"fluidAnimationDuration": 400,
+		"fluidAnimationDuration": 100,
 		"affectsGameMenus": true,
 		"affectsInventories": true,
 		"ignoreSlideWhenRedirected": true,

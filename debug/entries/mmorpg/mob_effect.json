@@ -1,0 +1,28 @@
+{
+  "count": 23,
+  "values": [
+    "mmorpg:bravery",
+    "mmorpg:wizardry",
+    "mmorpg:trickery",
+    "mmorpg:good_for_boss_channel",
+    "mmorpg:bad_for_player_channel",
+    "mmorpg:anger",
+    "mmorpg:frost",
+    "mmorpg:self_regen",
+    "mmorpg:poison",
+    "mmorpg:petrify",
+    "mmorpg:shiver",
+    "mmorpg:judgement",
+    "mmorpg:thorn_armor",
+    "mmorpg:static",
+    "mmorpg:burn",
+    "mmorpg:thunder_essence",
+    "mmorpg:poisoned_weapons",
+    "mmorpg:imbue",
+    "mmorpg:hunter_instinct",
+    "mmorpg:wounds",
+    "mmorpg:food_health_regen",
+    "mmorpg:food_mana_regen",
+    "mmorpg:food_magic_shield_regen"
+  ]
+}

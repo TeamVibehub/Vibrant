@@ -1,0 +1,11 @@
+{
+  "count": 6,
+  "values": [
+    "allure:resistance",
+    "allure:long_resistance",
+    "allure:strong_resistance",
+    "allure:resilience",
+    "allure:long_resilience",
+    "allure:strong_resilience"
+  ]
+}

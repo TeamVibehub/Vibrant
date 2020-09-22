@@ -1,0 +1,10 @@
+{
+  "count": 5,
+  "values": [
+    "mmorpg:freeze",
+    "mmorpg:dash",
+    "mmorpg:splash",
+    "mmorpg:stone_crack",
+    "mmorpg:fireball"
+  ]
+}
