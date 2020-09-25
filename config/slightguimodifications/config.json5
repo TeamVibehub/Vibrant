@@ -41,7 +41,7 @@
 		"customBackgroundTexture": false
 	},
 	"debugInformation": { 
-		"showFps": false
+		"showFps": true
 	},
 	"customScaling": { 
 		"scale": 1.0
