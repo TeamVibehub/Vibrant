@@ -24,7 +24,7 @@
       },
       "structures_density[def: 0.03125]": 0.03125,
       "lava_structures_density[def: 0.0078125]": 0.0078125,
-      "global_plant_and_structures_density[def: 1.0]": 1.0
+      "global_plant_and_structures_density[def: 1.0]": 0.5
     },
     "biome": {
       "minecraft": {
