@@ -1,0 +1,7 @@
+{
+  "count": 2,
+  "values": [
+    "structure-helpers:random_chance_processor",
+    "structure-helpers:air_ground_replacement_processor"
+  ]
+}

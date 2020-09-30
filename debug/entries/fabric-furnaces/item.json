@@ -1,0 +1,23 @@
+{
+  "count": 18,
+  "values": [
+    "fabric-furnaces:fabric_furnace",
+    "fabric-furnaces:iron_furnace",
+    "fabric-furnaces:gold_furnace",
+    "fabric-furnaces:diamond_furnace",
+    "fabric-furnaces:obsidian_furnace",
+    "fabric-furnaces:nether_furnace",
+    "fabric-furnaces:emerald_furnace",
+    "fabric-furnaces:end_furnace",
+    "fabric-furnaces:ethereal_furnace",
+    "fabric-furnaces:crystal_fabric_furnace",
+    "fabric-furnaces:crystal_iron_furnace",
+    "fabric-furnaces:crystal_gold_furnace",
+    "fabric-furnaces:crystal_diamond_furnace",
+    "fabric-furnaces:crystal_obsidian_furnace",
+    "fabric-furnaces:crystal_nether_furnace",
+    "fabric-furnaces:crystal_emerald_furnace",
+    "fabric-furnaces:crystal_end_furnace",
+    "fabric-furnaces:crystal_ethereal_furnace"
+  ]
+}

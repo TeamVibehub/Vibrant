@@ -1,5 +1,5 @@
 {
-  "count": 32,
+  "count": 33,
   "values": [
     "minecraft:speed",
     "minecraft:slowness",
@@ -32,6 +32,7 @@
     "minecraft:conduit_power",
     "minecraft:dolphins_grace",
     "minecraft:bad_omen",
-    "minecraft:hero_of_the_village"
+    "minecraft:hero_of_the_village",
+    "minecraft:lava_vision"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "count": 92,
+  "count": 94,
   "values": [
     "minecraft:mscorridor",
     "minecraft:mscrossing",
@@ -92,6 +92,8 @@
     "minecraft:stronghold_entrance_stairs",
     "minecraft:pyramid_floor_piece",
     "minecraft:rs_igloo_piece",
-    "minecraft:general_jigsaw_generator_piece"
+    "minecraft:general_jigsaw_generator_piece",
+    "minecraft:end_shipwreck_piece",
+    "minecraft:end_crypt_piece"
   ]
 }
