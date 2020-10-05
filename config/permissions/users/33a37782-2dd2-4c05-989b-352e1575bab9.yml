@@ -1,0 +1,6 @@
+uuid: 33a37782-2dd2-4c05-989b-352e1575bab9
+name: Ru5ki
+isGroup: false
+parentGroups: default, 
+permissions:
+- example.permission

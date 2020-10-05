@@ -6,5 +6,234 @@
         "role": "deny"
       }
     }
+  },
+
+  "contributor": {
+    "level": 20,
+    "overrides": {
+      "commands": {
+        "help": "allow",
+        "role": "deny"
+      }
+    }
+  },
+
+  "§lmod": {
+    "level": 80,
+    "overrides": {
+      "name_style": ["blue", "bold"],
+      "chat_format": "§6[MOD]§r %s: %s",
+      "commands": {
+        "help": "allow",
+        "role": "allow"
+      }
+    }
+  },
+  
+  "§lcm": {
+    "level": 90,
+    "overrides": {
+      "name_style": ["dark_purple", "bold"],
+      "chat_format": "§6[CM]§r %s: %s",
+      "commands": {
+        "help": "allow",
+        "role": "allow"
+      }
+    }
+  },
+  
+  "§ladmin": {
+    "level": 95,
+    "overrides": {
+      "name_style": ["dark_red", "bold"],
+      "chat_format": "§6[ADMIN]§r %s: %s",
+      "commands": {
+        "help": "allow",
+        "role": "allow"
+      }
+    }
+  },
+
+  "§ldev": {
+    "level": 100,
+    "overrides": {
+      "name_style": ["dark_red", "bold"],
+      "chat_format": "§3[DEV]§r %s: %s",
+      "commands": {
+        "help": "allow",
+        "role": "allow"
+      }
+    }
+  },
+
+
+
+
+  "darkred": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["dark_red"]
+    }
+  },
+
+  "darkred-bold": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["dark_red", "bold"]
+    }
+  },
+
+  "red": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["red"]
+    }
+  },
+
+  "red-bold": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["red", "bold"]
+    }
+  },
+
+  "gold": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["gold"]
+    }
+  },
+
+  "gold-bold": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["gold", "bold"]
+    }
+  },
+
+  "yellow": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["yellow"]
+    }
+  },
+
+  "yellow-bold": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["yellow", "bold"]
+    }
+  },
+
+  "darkgreen": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["darkgreen"]
+    }
+  },
+
+  "darkgreen-bold": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["darkgreen", "bold"]
+    }
+  },
+
+  "green": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["green"]
+    }
+  },
+
+  "green-bold": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["green", "bold"]
+    }
+  },
+
+  "dark_aqua": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["dark_aqua"]
+    }
+  },
+
+  "dark_aqua-bold": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["dark_aqua", "bold"]
+    }
+  },
+
+  "aqua": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["aqua"]
+    }
+  },
+
+  "aqua-bold": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["aqua", "bold"]
+    }
+  },
+
+  "dark_blue": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["dark_blue"]
+    }
+  },
+
+  "dark_blue-bold": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["dark_blue", "bold"]
+    }
+  },
+
+  "blue": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["blue"]
+    }
+  },
+
+  "blue-bold": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["blue", "bold"]
+    }
+  },
+
+  "dark_purple": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["dark_purple"]
+    }
+  },
+
+  "dark_purple-bold": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["dark_purple", "bold"]
+    }
+  },
+
+  "purple": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["light_purple"]
+    }
+  },
+
+  "purple-bold": {
+    "level": 10,
+    "overrides": {
+      "name_style": ["light_purple", "bold"]
+    }
   }
 }

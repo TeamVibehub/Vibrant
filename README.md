@@ -14,7 +14,6 @@ Please run the Shell script get-mods.ps1
 * [Adabranium](https://www.curseforge.com/minecraft/mc-mods/adabranium)
 * [Advancements Enlarger](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-* [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
 * [Auto Config Updated API](https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api)
 * [BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether)
 * [Blockshifter [Fabric]](https://www.curseforge.com/minecraft/mc-mods/blockshifter)
@@ -74,7 +73,6 @@ Please run the Shell script get-mods.ps1
 * [Vanilla Excavators](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators)
 * [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 * [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-* [Boring Backgrounds](https://www.curseforge.com/minecraft/mc-mods/boring-backgrounds)
 * [Campanion](https://www.curseforge.com/minecraft/mc-mods/campanion)
 * [Dank Storage Fabric](https://www.curseforge.com/minecraft/mc-mods/dank-storage-fabric)
 * [Astromine: Complete](https://www.curseforge.com/minecraft/mc-mods/astromine-main)
@@ -100,7 +98,6 @@ Please run the Shell script get-mods.ps1
 * [Overworld Two](https://www.curseforge.com/minecraft/mc-mods/overworld-two)
 * [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
-* [Lil Tater Reloaded](https://www.curseforge.com/minecraft/mc-mods/lil-tater-reloaded)
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
 * [NoMoreGlowingPots](https://www.curseforge.com/minecraft/mc-mods/nomoreglowingpots)
 * [Fabric Furnaces](https://www.curseforge.com/minecraft/mc-mods/fabric-furnaces)
@@ -110,6 +107,18 @@ Please run the Shell script get-mods.ps1
 * [Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/leaf-decay)
 * [Netherite Plus](https://www.curseforge.com/minecraft/mc-mods/netherite-plus-mod)
 * [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
+* [Switcheroo](https://www.curseforge.com/minecraft/mc-mods/autoswap-updated)
+* [Trinkets (Fabric)](https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric)
+* [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
+* [Auth Me](https://www.curseforge.com/minecraft/mc-mods/auth-me)
+* [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)
+* [Holographic Fabric](https://www.curseforge.com/minecraft/mc-mods/holographic-fabric)
+* [Cyber Permissions](https://www.curseforge.com/minecraft/mc-mods/cyber-permissions)
+* [Boring Backgrounds](https://www.curseforge.com/minecraft/mc-mods/boring-backgrounds)
+* [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+* [Light Overlay (Rift/Forge/Fabric)](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
+* [Mouse Wheelie (Fabric)](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)
+
 
 
 </details>

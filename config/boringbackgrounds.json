@@ -1,0 +1,6 @@
+{
+     "textures": {
+         "minecraft:textures/block/stone_bricks.png": 5
+     },
+         "randomize_on_new_screen": false
+}

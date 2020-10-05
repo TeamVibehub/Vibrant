@@ -24,7 +24,7 @@ mainMenu {
         color = 0x201f3d
         hoveredColor = 0x19d1a6
         shadow = true
-        text = literal("Vibrant - Build 0.2.1 (Beta)")
+        text = literal("Vibrant - Build 0.2.2 (Beta)")
     }
 
     label {
