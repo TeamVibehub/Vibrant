@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "modern_industrialization:items/materials/chrome/crushed_dust"
+  },
+  "elements": []
+}

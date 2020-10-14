@@ -1,0 +1,24 @@
+{
+  "count": 19,
+  "values": [
+    "modern_industrialization:assembler",
+    "modern_industrialization:blast_furnace",
+    "modern_industrialization:centrifuge",
+    "modern_industrialization:chemical_reactor",
+    "modern_industrialization:coke_oven",
+    "modern_industrialization:compressor",
+    "modern_industrialization:cutting_machine",
+    "modern_industrialization:distillery",
+    "modern_industrialization:electrolyzer",
+    "modern_industrialization:macerator",
+    "modern_industrialization:mixer",
+    "modern_industrialization:oil_drilling_rig",
+    "modern_industrialization:packer",
+    "modern_industrialization:polarizer",
+    "modern_industrialization:quarry",
+    "modern_industrialization:vacuum_freezer",
+    "modern_industrialization:wiremill",
+    "modern_industrialization:forge_hammer_hammer",
+    "modern_industrialization:forge_hammer_saw"
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "count": 5,
   "values": [
-    "hardcorequesting:heart",
-    "hardcorequesting:complete",
     "hardcorequesting:rotten",
+    "hardcorequesting:ban",
+    "hardcorequesting:heart",
     "hardcorequesting:reward",
-    "hardcorequesting:ban"
+    "hardcorequesting:complete"
   ]
 }

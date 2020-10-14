@@ -118,6 +118,9 @@ Please run the Shell script get-mods.ps1
 * [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
 * [Light Overlay (Rift/Forge/Fabric)](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
 * [Mouse Wheelie (Fabric)](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)
+* [megane](https://www.curseforge.com/minecraft/mc-mods/megane)
+* [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization)
+
 
 
 

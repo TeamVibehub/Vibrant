@@ -1,0 +1,28 @@
+{
+  "count": 23,
+  "values": [
+    "modern_industrialization:air",
+    "modern_industrialization:chlorine",
+    "modern_industrialization:chrome_hydrochloric_solution",
+    "modern_industrialization:crude_oil",
+    "modern_industrialization:diesel",
+    "modern_industrialization:heavy_fuel",
+    "modern_industrialization:hydrochloric_acid",
+    "modern_industrialization:hydrogen",
+    "modern_industrialization:light_fuel",
+    "modern_industrialization:manganese_sulfuric_solution",
+    "modern_industrialization:naphta",
+    "modern_industrialization:oxygen",
+    "modern_industrialization:raw_synthetic_oil",
+    "modern_industrialization:raw_rubber",
+    "modern_industrialization:rubber",
+    "modern_industrialization:sodium_hydroxide",
+    "modern_industrialization:steam",
+    "modern_industrialization:steam_cracked_naphta",
+    "modern_industrialization:sulfuric_acid",
+    "modern_industrialization:sulfuric_heavy_fuel",
+    "modern_industrialization:sulfuric_light_fuel",
+    "modern_industrialization:sulfuric_naphta",
+    "modern_industrialization:synthetic_oil"
+  ]
+}

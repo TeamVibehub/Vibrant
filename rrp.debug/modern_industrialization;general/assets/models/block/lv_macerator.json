@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "modern_industrialization:blocks/lv_macerator"
+  },
+  "elements": []
+}

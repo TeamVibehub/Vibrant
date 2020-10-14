@@ -1,0 +1,43 @@
+{
+  "inventory": {
+    "enabled": true,
+    "maxWidth": 9,
+    "maxHeight": 3,
+    "blacklist": []
+  },
+  "energy": {
+    "enabled": true,
+    "expandWhenSneak": true,
+    "colors": {
+      "megane": -9368576,
+      "modern_industrialization": -4784128,
+      "techreborn": -8386560,
+      "astromine": -13275755,
+      "indrev": -12891426,
+      "appliedenergistics2": -10221153
+    },
+    "units": {
+      "megane": "E",
+      "modern_industrialization": "EU",
+      "indrev": "LF",
+      "appliedenergistics2": "AE"
+    },
+    "blacklist": [
+      "appliedenergistics2:energy_acceptor"
+    ]
+  },
+  "fluid": {
+    "enabled": true,
+    "expandWhenSneak": true,
+    "barColor": -15921831,
+    "blacklist": []
+  },
+  "progress": {
+    "enabled": true,
+    "showWhenZero": false,
+    "blacklist": [
+      "minecraft:furnace",
+      "minecraft:blast_furnace"
+    ]
+  }
+}

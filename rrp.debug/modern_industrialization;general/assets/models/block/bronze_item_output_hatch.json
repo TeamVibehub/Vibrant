@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "modern_industrialization:blocks/bronze_item_output_hatch"
+  },
+  "elements": []
+}
