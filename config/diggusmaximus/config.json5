@@ -2,7 +2,7 @@
 	// Mod enabled or disabled
 	"enabled": true,
 	// Activation key
-	"keybinding": "key.keyboard.grave.accent",
+	"keybinding": "key.keyboard.x",
 	// Should mine diagonally
 	"mineDiag": true,
 	// Maximum number of blocks to mine

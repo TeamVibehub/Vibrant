@@ -1,0 +1,10 @@
+{
+  "count": 5,
+  "values": [
+    "cavebiomes:cavern_chest",
+    "cavebiomes:spelunkers_chest",
+    "cavebiomes:nether_chest",
+    "cavebiomes:cave_spawner",
+    "cavebiomes:rare_cave_spawner"
+  ]
+}

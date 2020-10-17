@@ -24,7 +24,7 @@ mainMenu {
         color = 0x201f3d
         hoveredColor = 0x19d1a6
         shadow = true
-        text = literal("Vibrant - Build 0.2.2 (Beta)")
+        text = literal("Vibrant - Build 0.3.0 (Beta)")
     }
 
     label {
@@ -66,8 +66,7 @@ mainMenu {
         height = 80
         align = "center"
         texture = file("config/slightguimodifications/logo.png")
-        hoveredTexture = file("config/slightguimodifications/logo-hover.png")
-        onClicked = nothing()
+        hoveredTexture = file("config/slightguimodifications/logo-hover.png")  
     }
 
     //////////// Menu Buttons Start Here ////////////
@@ -109,7 +108,7 @@ mainMenu {
 
         texture = file("config/slightguimodifications/btn_med.png")
         hoveredTexture = file("config/slightguimodifications/btn_med-hover.png")
-        text = literal("Our Website")
+        text = literal("Website & Discord")
         onClicked = url("https://vibb.in")
     }
     button {
@@ -122,8 +121,8 @@ mainMenu {
 
         texture = file("config/slightguimodifications/btn_med.png")
         hoveredTexture = file("config/slightguimodifications/btn_med-hover.png")
-        text = literal("Discord")
-        onClicked = url("https://vibb.in/discord")
+        text = literal("Rent a Server")
+        onClicked = url("https://bisecthosting.com/vibrant25")
     }
 
     button {

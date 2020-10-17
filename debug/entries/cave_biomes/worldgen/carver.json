@@ -1,0 +1,9 @@
+{
+  "count": 4,
+  "values": [
+    "cave_biomes:room_carver",
+    "cave_biomes:vertical_carver",
+    "cave_biomes:horizontal_carver",
+    "cave_biomes:lava_room_carver"
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "volume": 20,
-  "stance": "UNKNOWN",
+  "volume": 15,
+  "stance": "BIPED",
   "multiplayer": true,
   "global": true
 }

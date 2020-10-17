@@ -1,5 +1,5 @@
 {
-  "count": 21,
+  "count": 22,
   "values": [
     "astromine:rocket",
     "astromine:fluid_extractor",
@@ -20,6 +20,7 @@
     "astromine:presser",
     "astromine:electric_smelter",
     "astromine:electrolyzer",
+    "astromine:refinery",
     "astromine:fluid_mixer",
     "astromine:alloy_smelter"
   ]

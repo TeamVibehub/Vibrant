@@ -137,6 +137,30 @@
 	"advancedElectrolyzerFluid": 16,
 	// Fluid for the Elite Electrolyzer.
 	"eliteElectrolyzerFluid": 64,
+	// Speed for the Primitive Refinery.
+	"primitiveRefinerySpeed": 0.5,
+	// Speed for the Basic Refinery.
+	"basicRefinerySpeed": 1.0,
+	// Speed for the Advanced Refinery.
+	"advancedRefinerySpeed": 2.0,
+	// Speed for the Elite Refinery.
+	"eliteRefinerySpeed": 4.0,
+	// Energy for the Primitive Refinery.
+	"primitiveRefineryEnergy": 2048.0,
+	// Energy for the Basic Refinery.
+	"basicRefineryEnergy": 16384.0,
+	// Energy for the Advanced Refinery.
+	"advancedRefineryEnergy": 32767.0,
+	// Energy for the Elite Refinery.
+	"eliteRefineryEnergy": 65535.0,
+	// Fluid for the Primitive Refinery.
+	"primitiveRefineryFluid": 4,
+	// Fluid for the Basic Refinery.
+	"basicRefineryFluid": 8,
+	// Fluid for the Advanced Refinery.
+	"advancedRefineryFluid": 16,
+	// Fluid for the Elite Refinery.
+	"eliteRefineryFluid": 64,
 	// Speed for the Primitive Electric Smelter.
 	"primitiveElectricSmelterSpeed": 0.5,
 	// Speed for the Basic Electric Smelter.

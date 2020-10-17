@@ -1,11 +1,27 @@
 {
-  "count": 6,
+  "count": 22,
   "values": [
+    "astromine:crude_oil_flowing",
+    "astromine:crude_oil",
+    "astromine:residual_fuel_oil_flowing",
+    "astromine:residual_fuel_oil",
+    "astromine:heavy_gas_oil_flowing",
+    "astromine:heavy_gas_oil",
+    "astromine:diesel_flowing",
+    "astromine:diesel",
+    "astromine:kerosene_flowing",
+    "astromine:kerosene",
+    "astromine:naphtha_flowing",
+    "astromine:naphtha",
+    "astromine:gasoline_flowing",
+    "astromine:gasoline",
+    "astromine:butane_flowing",
+    "astromine:butane",
+    "astromine:kerosene_oxygen_fuel_flowing",
+    "astromine:kerosene_oxygen_fuel",
     "astromine:oxygen_flowing",
     "astromine:oxygen",
     "astromine:hydrogen_flowing",
-    "astromine:hydrogen",
-    "astromine:rocket_fuel_flowing",
-    "astromine:rocket_fuel"
+    "astromine:hydrogen"
   ]
 }

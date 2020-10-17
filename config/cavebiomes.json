@@ -1,8 +1,19 @@
 {
-  "configVersion": "0.3.0",
+  "configVersion": "0.4.0",
   "guessCaveBiomeIfAbsent": true,
   "generateOreCaves": true,
+  "generateFullObsidianCaves": true,
   "whitelistedDimensions": [
     "minecraft:overworld"
-  ]
+  ],
+  "caveLayerThreshold": 28,
+  "generateNewCaves": true,
+  "generateUndergroundLootChests": true,
+  "generateNetherLootChests": true,
+  "generateUndergroundSpawners": true,
+  "cavernChestRarity": 4,
+  "spelunkersChestRarity": 8,
+  "netherChestRarity": 8,
+  "normalSpawnerRarity": 5,
+  "rareSpawnerRarity": 7
 }

@@ -1,5 +1,5 @@
 {
-  "count": 614,
+  "count": 616,
   "values": [
     "blockus:smooth_stone_stairs",
     "blockus:stone_bricks_pillar",
@@ -595,6 +595,8 @@
     "blockus:golden_bars",
     "blockus:iron_plating",
     "blockus:dirt_path",
+    "blockus:netherite_stairs",
+    "blockus:netherite_slab",
     "blockus:thatch",
     "blockus:thatch_stairs",
     "blockus:thatch_slab",
